@@ -6,7 +6,7 @@ This year, the Summit has two separate parts: An Unconference (similar to last y
 
 ## RD Collective
 
-We are excited to announce the RD Round Up. In addition to the Unconference you have an opportunity to present an idea and potentially receiving funding to make it happen in 2021 fiscal year!
+We are excited to announce the RD Collective. In addition to the Unconference you have an opportunity to present an idea and potentially receiving funding to make it happen in 2021 fiscal year!
 
 We are using "Issues" as our list of proposed topics and a way to build your presenting team. To propose an idea you would either like present on, or that you would like to collaborate with others on, add an "Issue".
 
