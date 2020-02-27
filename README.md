@@ -2,7 +2,7 @@
 
 ### Topics and Proposals
 
-Building off last year’s feedback we are bringing back the RD Unconference. This year we are adding an open forum to these topics and proposals. You will able to propose the following type of format; open discussion, panel, round table, or presentation for a topic.
+Building off last year’s feedback we are bringing back the RD Unconference. This year we are adding an open forum to these topics and proposals. You will able to propose the following type of format; open discussion, panel, round table, or presentation for a topic. Specify the format of your session by noting it in the title.
 
 We are using "Issues" as our list of proposed topics. To propose a topic you would either like to say something about, or that you would like to learn more about, add an "Issue". Note that currently sessions are slated for 50 minutes each.
 
